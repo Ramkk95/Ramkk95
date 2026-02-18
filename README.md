@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramkk95
+- 👋 Hi, I’m @Raman_kumar
 - 👀 I’m interested in ...data analytics jobs
 - 🌱 I’m currently learning ...data analytics course
 - 💞️ I’m looking to collaborate on ...R and sql programming
